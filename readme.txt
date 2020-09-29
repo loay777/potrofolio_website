@@ -1,7 +1,5 @@
 Hello!!
 
-This repository contains the source code for my Portfolio Website (loie.me)
-
+This repository contains the source code for my Portfolio Website 
 Feel free to check it out. 
 
-Link -----> loie.me
